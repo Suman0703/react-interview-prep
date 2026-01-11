@@ -79,7 +79,7 @@ Feel free to open an issue or pull request.
 
 ## 👤 Maintained By
 
-**Suman devi**  
+**Suman Devi**  
 Frontend Developer | React Learner  
 Practicing React to build strong fundamentals and interview readiness.
 
